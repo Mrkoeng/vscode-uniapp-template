@@ -15,10 +15,12 @@
 			}
 		},
 		onLoad() {
-
+			uni.navigateTo({
+				url: '',
+			});
 		},
 		methods: {
-
+			
 		}
 	}
 </script>
